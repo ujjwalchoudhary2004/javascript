@@ -1,4 +1,4 @@
-const score=300;
+/*const score=300;
 const outsideTemp=null
 
 let userEmail;
@@ -20,4 +20,14 @@ const myfunction = function()
 {
     console.log("hello world");
 }
-console.log(typeof bigNumber);
+console.log(typeof bigNumber);*/
+// ****************************************************************************************
+
+
+let myYoutubeName="ujjwal.com";
+let anotherYoutubeName=myYoutubeName;
+
+anotherYoutubeName="hitesah";
+
+console.log(myYoutubeName);
+console.log(anotherYoutubeName);
